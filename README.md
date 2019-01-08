@@ -6,7 +6,7 @@ A website that provides information about Robbie and Jack's respective pet anima
 
 ## Description
 
-The webpage is simple in nature. It only consists of two pages. One, the home page, provides a brief overview of each animal. It tells the user some of each animal's loves and hates. The only other page contains a picture of both Randy, the cat, and Lola, the snail.
+The webpage is simple in nature. It only consists of two pages. One, the home page, provides a brief overview of each animal. It tells the user some of each animal's loves and hates. The only other page contains a picture of both Randy, the cat, and Lola, the snail. This is the first website we made at Epicodus.
 
 ## Setup/Installation Requirements
 
@@ -30,4 +30,4 @@ html
 
 MIT
 
-Copyright (c) 2019 
+Copyright (c) 2019
